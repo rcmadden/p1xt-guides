@@ -16,6 +16,9 @@ Web development, software engineering, games programming, mobile app development
   * [Native Android Programming - comprehensive](#native-android-programming---comprehensive)
   * [Topic Specific Guides](#topic-specific-deep-dives)
     * regex
+    * Angular
+    * Vue
+    * React
 * [Practice/Speedrun Project lists](#practice-speedrun)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Attribution](#attribution)
@@ -36,6 +39,9 @@ If you're interested in seeing how much Computer Science you can learn in a year
 * Job Ready Python - September, 2017
 * Job Ready JavaScript 2.0 - September, 2017
 * Practice/Speedrun Project lists - October, 2017
+* Topic Guide: Angular - January, 2018
+* Topic Guide: Vue - January, 2018
+* Topic Guide: React - January, 2018
 
 A few people suggested making it possible to buy me a coffee as thanks - so please feel free but not obligated to
 
@@ -128,6 +134,9 @@ to ensure you're prepared to tackle any Android development task.
 Comprehensive review of narrow topics.
 
 * [Regex Guide](./topic-guides/regex.md)
+* [Angular Guide](./topic-guides/angular.md)
+* [Vue Guide](./topic-guides/vue.md)
+* [React Guide](./topic-guides/react.md)
 
 ## Practice Speedrun
 
